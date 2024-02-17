@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Linkhello123
+- 👀 I’m interested in ... Coding,§dPrinting
+- 🌱 I’m currently learning ...C#
+- 💞️ I’m looking to collaborate on ... Games
+- 📫 How to reach me ... Github
+- 😄 Pronouns: ... He/him
+- ⚡ Fun fact: ... 
